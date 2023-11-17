@@ -41,20 +41,20 @@ These folders had the images, stored in JPEG off the lungs.
 
 - chest_xray</br>
    - test</br>
-      -NORMAL</br>
-        -Images of normal lungs</br>
-     -PNEUMONIA</br>
-        -Images of lungs with pneumonia</br>
+      - NORMAL</br>
+        - Images of normal lungs</br>
+     - PNEUMONIA</br>
+        - Images of lungs with pneumonia</br>
    - train</br>
-      -NORMAL</br>
-        -Images of normal lungs</br>
-     -PNEUMONIA</br>
-        -Images of lungs with pneumonia</br>
+      - NORMAL</br>
+        - Images of normal lungs</br>
+     - PNEUMONIA</br>
+        - Images of lungs with pneumonia</br>
    - val</br>
-      -NORMAL</br>
-        -Images of normal lungs</br>
-     -PNEUMONIA</br>
-        -Images of lungs with pneumonia</br>
+      - NORMAL</br>
+        - Images of normal lungs</br>
+     - PNEUMONIA</br>
+        - Images of lungs with pneumonia</br>
 
 
 # Objectives
